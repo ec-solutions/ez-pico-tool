@@ -1,0 +1,13 @@
+{
+  "description": "WizIO Pico Tool", 
+  "name": "tool-wizio-pico", 
+  "system": [
+        "windows",
+        "windows_amd64",
+        "windows_x86",
+        "linux_x86_64",
+        "darwin_x86_64"
+  ], 
+  "url": "https://github.com/Wiz-IO/tool-wizio-pico", 
+  "version": "1.0.0"
+}

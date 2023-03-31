@@ -1,6 +1,6 @@
 {
-  "description": "WizIO Pico Tool", 
-  "name": "tool-wizio-pico", 
+  "name": "ez-pico-tool", 
+  "description": "Programmable IO for the 2040 microcontroller", 
   "system": [
         "windows",
         "windows_amd64",
@@ -8,6 +8,6 @@
         "linux_x86_64",
         "darwin_x86_64"
   ], 
-  "url": "https://github.com/Wiz-IO/tool-wizio-pico", 
+  "url": "https://github.com/ec-solutions/ez-pico-tool", 
   "version": "1.0.0"
 }
